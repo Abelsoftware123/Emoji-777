@@ -2,7 +2,7 @@ This gameslot is only for game purpose. not for real gambling.
 
 payservice are not allowed to my software.
 
-licence and copyright 2025 Karim Abelsoftware123
+licence and copyright 2025 Abelsoftware123
 
 the script is personal sharing is forbidden! 
 patent belong to Abelsoftware123 the Netherlands. 
